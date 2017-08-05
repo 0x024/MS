@@ -1,6 +1,6 @@
 ## 0x00:告示：
 因为之前blog域名没有备案，已被禁止访问，现在可直接访问[123.206.56.205] ,
-关于最新的细节，blog>github>freebuf!
+关于最新的细节，123.206.56.205>github>freebuf!
 ## 0x00 预览：
 ![image](https://github.com/0x024/MS/blob/master/data/temp/Screenshot%20from%202017-08-03%2019-10-53.png)
 
