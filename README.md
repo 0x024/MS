@@ -66,7 +66,7 @@ sudo make install
 
 
 ```java
-python import.py   #将保存在./data/master/目录下的图片信息导入数据库
+python import.py     #将保存在./data/master/目录下的图片信息导入数据库
 
 ```
 
