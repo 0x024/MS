@@ -26,8 +26,8 @@ sudo ln -s /usr/share/phpmyadmin /var/www/html/
 sudo sed -i 's/;extension=php_mbstring.dll/extension=php_mbstring.dll/' /etc/php/7.0/apache2/php.ini
 sudo /etc/init.d/apache2 restart
 mysql --user=root -p
-CREATE DATABASE IF NOT EXISTS `FRT` DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;
-USE `FRT`;
+CREATE DATABASE IF NOT EXISTS `MS` DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;
+USE `MS`;
 CREATE TABLE `None` (`None` int(11) NOT NULL) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 ```
 ```
