@@ -66,7 +66,7 @@ sudo make install
 
 
 ```java
-python import.py   #将保存在./data/master/目录下的图片特征经分析后，将图片信息导入数据库，只可单人照片，要求图片清晰度较高
+python import.py   #将保存在./data/master/目录下的图片信息导入数据库
 
 ```
 
